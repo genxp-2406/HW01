@@ -38,3 +38,14 @@ quad(
 And, finally:
 
 ![](./imgs/HW02C_05.png)
+
+
+## 3 Variations:
+
+Original: https://editor.p5js.org/thiagohersan/sketches/1Ze6w3AgJ
+
+Different Color: https://editor.p5js.org/thiagohersan/sketches/ExgpxV5LM
+
+More Shapes, Sharper Tilt: https://editor.p5js.org/thiagohersan/sketches/CKKJ303PS
+
+More Different: https://editor.p5js.org/thiagohersan/sketches/cHjFbiGze
