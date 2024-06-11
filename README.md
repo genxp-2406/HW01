@@ -1,4 +1,7 @@
-# HW02C
+# HW01
+
+Inspired by Hélio Oiticica's Metaesquemas:
+![](https://mam.rio/wp-content/uploads/2020/12/MAM-Rio_OITICICA_Hélio_3-735-e1607384267623.jpg)
 
 This was kind of fun once I drew the following grid:
 
